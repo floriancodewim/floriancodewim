@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and finance
 - 🌱 I’m currently learning Python 3
 - 📫 How to reach me: LinkedIN
-- ⚡ Fun fact: I like Anime
+- ⚡ Fun fact: I like Trading and Algorithmic Trading
 
 <!---
 floriancodewim/floriancodewim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
