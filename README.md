@@ -4,7 +4,8 @@ I’m a Business Informatics student based in Vienna, currently pursuing his und
 
 - **Computational Finance** – building data-driven models to understand markets or create better portfolios  
 - **Machine Learning** – developing algorithms that learn from and adapt to data  
-- **Python Coding** – writing clean, efficient code and exploring new libraries  
+- **Python Coding** – writing clean, efficient code and exploring new libraries
+- **Finance** - Global Macro, Trading, Asset Management and various financial models
 
 
 ## 🌱 Currently learning
