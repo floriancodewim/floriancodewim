@@ -19,7 +19,7 @@ I’m a Business Informatics student based in Vienna, currently pursuing his und
 
 ## ⚡ Fun fact
 
-**I like Trading and Algorithmic Trading**
+**I like Finance, Trading and Algorithmic Trading**
 
 
 ## Languages 🧠
